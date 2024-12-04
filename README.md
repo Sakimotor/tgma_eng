@@ -30,12 +30,22 @@ As my Xbox 360 is a retail western console, I do not have the ability to play th
 Plus, **this patch only supports the 1.0 version of the game**, please reach out to me if you have a dump of the update (`Sakimotor#7923`)
 
 ## Screenshots
+
+Updated Version:
+![xenia_canary_FH0ILvM7ot](https://github.com/user-attachments/assets/e4b3fd42-efda-4067-a491-bf92735d89ef)
+![xenia_canary_3YZJyw8Wfk](https://github.com/user-attachments/assets/dc3eeb90-112c-41be-8aee-9eb24ce4e113)
+
+
+
+Original Patch:
 ![xenia_canary_eF7mTWgKax](https://github.com/user-attachments/assets/2130fd1e-1559-482e-b9b8-576a334bea77)
 ![xenia_canary_KLjHT7AAud](https://github.com/user-attachments/assets/bd418e6d-f1b0-4424-8695-54439664603a)
 ![xenia_canary_4o4ZqqO5r4](https://github.com/user-attachments/assets/52dee005-512f-4f67-96d8-d3ae254384d1)
 ![xenia_canary_VneuBa0iP1](https://github.com/user-attachments/assets/0bc7fcd7-5114-4e26-8e06-2288a1e86777)
 ![xenia_canary_puv6WMStsf](https://github.com/user-attachments/assets/c4c22e63-c3f9-4468-a22e-f29105e043e1) 
 ![xenia_canary_UEifuSrxtg](https://github.com/user-attachments/assets/c6a8a031-44b5-4ca9-8f48-d834e9aa7351)
+
+
 
 
 
