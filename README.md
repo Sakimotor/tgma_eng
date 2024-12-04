@@ -10,7 +10,7 @@ The `docs/` folder contains the game's promotional Flash website that, I modifie
 ### The English Patch
 To install the patch, you need to dump your game, find "default.xex" and apply the delta patch thanks to xdeltaGUI or Delta Patcher.
 
-**NOTE:** In order to apply the patch to an updated version of the game, the original executable needs to have its update file applied. This can be done by extracting the `default.xexp` file from your dumped Title Update, then applying it to the original `default.xex` with the program [xextool](https://digiex.net/threads/xextool-6-3-download.9523/), by executing the following command:
+**NOTE:** In order to apply the patch to an updated version of the game, the original executable needs to have its update file applied. This can be done by extracting the `default.xexp` file from your dumped Title Update, then applying it to the original `default.xex` with the program [xextool](https://digiex.net/threads/xextool-6-3-download.9523/), and the following command:
 
 ```bash
 xextool -o default_updated.xex -p default.xexp default_original.xex
