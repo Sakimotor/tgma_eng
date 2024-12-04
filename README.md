@@ -6,11 +6,20 @@ The `docs/` folder contains the game's promotional Flash website that, I modifie
 
 ## Installation
 
+
 ### The English Patch
 To install the patch, you need to dump your game, find "default.xex" and apply the delta patch thanks to xdeltaGUI or Delta Patcher.
 
+**NOTE:** In order to apply the patch to an updated version of the game, the original executable needs to have its update file applied. This can be done by extracting the `default.xexp` file from your dumped Title Update, then applying it to the original `default.xex` with the program [xextool](https://digiex.net/threads/xextool-6-3-download.9523/), by executing the following command:
+
+```bash
+xextool -o default_updated.xex -p default.xexp default_original.xex
+```
+
 ### The Force Unlock (Xenia Canary only, pre-applied to the patch)
-Xenia users who wish to keep the japanese text/don't want to alter their .xex file, while still making use of the **Force Unlock Patch** can download [my patch](https://github.com/Sakimotor/tgma_eng/blob/main/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml) and put it in their `Xenia/patches` folder as indicated by [the official guide](https://github.com/xenia-canary/game-patches)
+Xenia users who wish to keep the japanese text/don't want to alter their .xex file, while still making use of the **Force Unlock Patch** can download [my patch](https://github.com/Sakimotor/tgma_eng/blob/main/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml) (for the 1.0.3 version it's [this one](https://github.com/Sakimotor/tgma_eng/blob/main/434107D2%20v1.0.3%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml) and put it in their `Xenia/patches` folder as indicated by [the official guide](https://github.com/xenia-canary/game-patches)
+
+
 
 Xenia uses the .xex file's hashing to decide whether it should apply the .toml patch or not so please reach out to me if it doesn't work for you.
 
