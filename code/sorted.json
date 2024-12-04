@@ -1,0 +1,2048 @@
+[
+    {
+        "Location": "82001ac8",
+        "Pointer_jp": "82340908",
+        "String_en": "Amateur",
+        "String_jp": "見習い"
+    },
+    {
+        "Location": "82001ad0",
+        "Pointer_jp": "8234090c",
+        "String_en": "9th Kyu",
+        "String_jp": "九級"
+    },
+    {
+        "Location": "82001ad8",
+        "Pointer_jp": "82340910",
+        "String_en": "8th Kyu",
+        "String_jp": "八級"
+    },
+    {
+        "Location": "82001ae0",
+        "Pointer_jp": "82340914",
+        "String_en": "7th Kyu",
+        "String_jp": "七級"
+    },
+    {
+        "Location": "82001ae8",
+        "Pointer_jp": "82340918",
+        "String_en": "6th Kyu",
+        "String_jp": "六級"
+    },
+    {
+        "Location": "82001af0",
+        "Pointer_jp": "8234091c",
+        "String_en": "5th Kyu",
+        "String_jp": "五級"
+    },
+    {
+        "Location": "82001af8",
+        "Pointer_jp": "82340920",
+        "String_en": "4th Kyu",
+        "String_jp": "四級"
+    },
+    {
+        "Location": "82001b00",
+        "Pointer_jp": "82340924",
+        "String_en": "3rd Kyu",
+        "String_jp": "三級"
+    },
+    {
+        "Location": "82001b08",
+        "Pointer_jp": "82340928",
+        "String_en": "2nd Kyu",
+        "String_jp": "二級"
+    },
+    {
+        "Location": "82001b10",
+        "Pointer_jp": "8234092c",
+        "String_en": "1st Kyu",
+        "String_jp": "一級"
+    },
+    {
+        "Location": "82001b18",
+        "Pointer_jp": "82340930",
+        "String_en": "1st Dan",
+        "String_jp": "初段"
+    },
+    {
+        "Location": "82001b20",
+        "Pointer_jp": "82340934",
+        "String_en": "2nd Dan",
+        "String_jp": "二段"
+    },
+    {
+        "Location": "82001b28",
+        "Pointer_jp": "82340938",
+        "String_en": "3rd Dan",
+        "String_jp": "三段"
+    },
+    {
+        "Location": "82001b30",
+        "Pointer_jp": "8234093c",
+        "String_en": "4th Dan",
+        "String_jp": "四段"
+    },
+    {
+        "Location": "82001b38",
+        "Pointer_jp": "82340940",
+        "String_en": "5th Dan",
+        "String_jp": "五段"
+    },
+    {
+        "Location": "82001b40",
+        "Pointer_jp": "82340944",
+        "String_en": "6th Dan",
+        "String_jp": "六段"
+    },
+    {
+        "Location": "82001b48",
+        "Pointer_jp": "82340948",
+        "String_en": "7th Dan",
+        "String_jp": "七段"
+    },
+    {
+        "Location": "82001b50",
+        "Pointer_jp": "8234094c",
+        "String_en": "8th Dan",
+        "String_jp": "八段"
+    },
+    {
+        "Location": "82001b58",
+        "Pointer_jp": "82340950",
+        "String_en": "9th Dan",
+        "String_jp": "九段"
+    },
+    {
+        "Location": "82001b60",
+        "Pointer_jp": "82340954",
+        "String_en": "10th Dan",
+        "String_jp": "十段"
+    },
+    {
+        "Location": "82001b68",
+        "Pointer_jp": "82343364",
+        "String_en": "TM",
+        "String_jp": "ＴＭ"
+    },
+    {
+        "Location": "82001b68",
+        "Pointer_jp": "82340958",
+        "String_en": "TM",
+        "String_jp": "ＴＭ"
+    },
+    {
+        "Location": "82001bac",
+        "Pointer_jp": "82345d90",
+        "String_en": "Back",
+        "String_jp": "戻る"
+    },
+    {
+        "Location": "82001bac",
+        "Pointer_jp": "82345ce8",
+        "String_en": "Back",
+        "String_jp": "戻る"
+    },
+    {
+        "Location": "82001bb4",
+        "Pointer_jp": "823431b8",
+        "String_en": "Cycle",
+        "String_jp": "サイクル"
+    },
+    {
+        "Location": "82001bc0",
+        "Pointer_jp": "823431b4",
+        "String_en": "Tetris",
+        "String_jp": "テトリス"
+    },
+    {
+        "Location": "82001bc0",
+        "Pointer_jp": "823458f0",
+        "String_en": "Tetris",
+        "String_jp": "テトリス"
+    },
+    {
+        "Location": "82001bcc",
+        "Pointer_jp": "823431b0",
+        "String_en": "Triple",
+        "String_jp": "トリプル"
+    },
+    {
+        "Location": "82001bd8",
+        "Pointer_jp": "823431ac",
+        "String_en": "Double",
+        "String_jp": "ダブル"
+    },
+    {
+        "Location": "82001be0",
+        "Pointer_jp": "823431a8",
+        "String_en": "Single",
+        "String_jp": "シングル"
+    },
+    {
+        "Location": "82001bec",
+        "Pointer_jp": "82343214",
+        "String_en": "Another",
+        "String_jp": "アナザー"
+    },
+    {
+        "Location": "82001bec",
+        "Pointer_jp": "823431a4",
+        "String_en": "Another",
+        "String_jp": "アナザー"
+    },
+    {
+        "Location": "82001bec",
+        "Pointer_jp": "82345924",
+        "String_en": "Another",
+        "String_jp": "アナザー"
+    },
+    {
+        "Location": "82001bf8",
+        "Pointer_jp": "8234591c",
+        "String_en": "High Speed 2",
+        "String_jp": "ハイスピード２"
+    },
+    {
+        "Location": "82001bf8",
+        "Pointer_jp": "82343210",
+        "String_en": "High Speed 2",
+        "String_jp": "ハイスピード２"
+    },
+    {
+        "Location": "82001bf8",
+        "Pointer_jp": "823431a0",
+        "String_en": "High Speed 2",
+        "String_jp": "ハイスピード２"
+    },
+    {
+        "Location": "82001c08",
+        "Pointer_jp": "8234319c",
+        "String_en": "Big",
+        "String_jp": "ビッグ"
+    },
+    {
+        "Location": "82001c08",
+        "Pointer_jp": "82345920",
+        "String_en": "Big",
+        "String_jp": "ビッグ"
+    },
+    {
+        "Location": "82001c10",
+        "Pointer_jp": "823458fc",
+        "String_en": "Eraser",
+        "String_jp": "イレイサー"
+    },
+    {
+        "Location": "82001c1c",
+        "Pointer_jp": "82345900",
+        "String_en": "Level Star",
+        "String_jp": "レベルスター"
+    },
+    {
+        "Location": "82001c2c",
+        "Pointer_jp": "82345904",
+        "String_en": "Target",
+        "String_jp": "ターゲット"
+    },
+    {
+        "Location": "82001c2c",
+        "Pointer_jp": "82343190",
+        "String_en": "Target",
+        "String_jp": "ターゲット"
+    },
+    {
+        "Location": "82001c38",
+        "Pointer_jp": "82345914",
+        "String_en": "Normal",
+        "String_jp": "ノーマル"
+    },
+    {
+        "Location": "82001c38",
+        "Pointer_jp": "82343208",
+        "String_en": "Normal",
+        "String_jp": "ノーマル"
+    },
+    {
+        "Location": "82001c38",
+        "Pointer_jp": "8234318c",
+        "String_en": "Normal",
+        "String_jp": "ノーマル"
+    },
+    {
+        "Location": "82001e94",
+        "Pointer_jp": "823431cc",
+        "String_en": "Clear the Line!",
+        "String_jp": "ライン消せ！"
+    },
+    {
+        "Location": "82001e94",
+        "Pointer_jp": "823431c8",
+        "String_en": "Clear the Line!",
+        "String_jp": "ライン消せ！"
+    },
+    {
+        "Location": "82001e94",
+        "Pointer_jp": "823431c0",
+        "String_en": "Clear the Line!",
+        "String_jp": "ライン消せ！"
+    },
+    {
+        "Location": "82001ea4",
+        "Pointer_jp": "823431c4",
+        "String_en": "Clear the stage!",
+        "String_jp": "ステージクリアしろ！"
+    },
+    {
+        "Location": "82001ebc",
+        "Pointer_jp": "823431d0",
+        "String_en": "Clear a Single!",
+        "String_jp": "回シングルを決めろ！"
+    },
+    {
+        "Location": "82001ed4",
+        "Pointer_jp": "823431d4",
+        "String_en": "Clear a Double!",
+        "String_jp": "回ダブルを決めろ！"
+    },
+    {
+        "Location": "82001ee8",
+        "Pointer_jp": "823431d8",
+        "String_en": "Clear a Triple!",
+        "String_jp": "回トリプルを決めろ！"
+    },
+    {
+        "Location": "82001f00",
+        "Pointer_jp": "823431dc",
+        "String_en": "Clear a Tetris!ﾟ",
+        "String_jp": "回テトリスを決めろ！"
+    },
+    {
+        "Location": "82001f18",
+        "Pointer_jp": "823431e0",
+        "String_en": "Clear the cycle!",
+        "String_jp": "サイクルを決めろ！"
+    },
+    {
+        "Location": "82001f2c",
+        "Pointer_jp": "823431bc",
+        "String_en": "Finish with a Double clear!",
+        "String_jp": "最後のラインをダブルで消せ！"
+    },
+    {
+        "Location": "82001f68",
+        "Pointer_jp": "823431e4",
+        "String_en": "Exam",
+        "String_jp": "審査"
+    },
+    {
+        "Location": "82001f70",
+        "Pointer_jp": "823431e8",
+        "String_en": "Train",
+        "String_jp": "練習"
+    },
+    {
+        "Location": "82001f7c",
+        "Pointer_jp": "823431ec",
+        "String_en": "Big Road",
+        "String_jp": "ビッグロード"
+    },
+    {
+        "Location": "82001f8c",
+        "Pointer_jp": "823431f0",
+        "String_en": "Tricky Road",
+        "String_jp": "トリッキーロード"
+    },
+    {
+        "Location": "82001fa0",
+        "Pointer_jp": "823431f4",
+        "String_en": "Grand Road",
+        "String_jp": "グランドロード"
+    },
+    {
+        "Location": "82001fb0",
+        "Pointer_jp": "823431f8",
+        "String_en": "Star Road",
+        "String_jp": "スターロード"
+    },
+    {
+        "Location": "82001fc0",
+        "Pointer_jp": "823431fc",
+        "String_en": "Another Road",
+        "String_jp": "アナザーロード"
+    },
+    {
+        "Location": "82002034",
+        "Pointer_jp": "82345848",
+        "String_en": "Time Attack",
+        "String_jp": "タイムアタック"
+    },
+    {
+        "Location": "82002034",
+        "Pointer_jp": "8234321c",
+        "String_en": "Time Attack",
+        "String_jp": "タイムアタック"
+    },
+    {
+        "Location": "82002044",
+        "Pointer_jp": "82343228",
+        "String_en": "Tetris Battle",
+        "String_jp": "対戦テトリス"
+    },
+    {
+        "Location": "82002054",
+        "Pointer_jp": "82345918",
+        "String_en": "High Speed 1",
+        "String_jp": "ハイスピード１"
+    },
+    {
+        "Location": "82002054",
+        "Pointer_jp": "8234320c",
+        "String_en": "High Speed 1",
+        "String_jp": "ハイスピード１"
+    },
+    {
+        "Location": "82002064",
+        "Pointer_jp": "82343200",
+        "String_en": "     Rank   Gamertag           Level  Lines    Time",
+        "String_jp": "     Rank   Gamertag           Level  Lines    Time"
+    },
+    {
+        "Location": "82002168",
+        "Pointer_jp": "82343224",
+        "String_en": "Prom. Exam",
+        "String_jp": "昇段審査"
+    },
+    {
+        "Location": "82002174",
+        "Pointer_jp": "8234322c",
+        "String_en": "Tetris Road",
+        "String_jp": "テトリスロード"
+    },
+    {
+        "Location": "82002184",
+        "Pointer_jp": "82343230",
+        "String_en": "T.A　Normal",
+        "String_jp": "ＴＡ　ノーマル"
+    },
+    {
+        "Location": "82002194",
+        "Pointer_jp": "82343234",
+        "String_en": "T.A　High Speed 1",
+        "String_jp": "ＴＡ　ハイスピード１"
+    },
+    {
+        "Location": "820021ac",
+        "Pointer_jp": "82343238",
+        "String_en": "T.A　High Speed 2",
+        "String_jp": "ＴＡ　ハイスピード２"
+    },
+    {
+        "Location": "820021c4",
+        "Pointer_jp": "8234323c",
+        "String_en": "T.A　Another",
+        "String_jp": "ＴＡ　アナザー"
+    },
+    {
+        "Location": "820021d4",
+        "Pointer_jp": "82343240",
+        "String_en": "Total",
+        "String_jp": "合計"
+    },
+    {
+        "Location": "820021dc",
+        "Pointer_jp": "82343244",
+        "String_en": "Item A",
+        "String_jp": "アイテムあり"
+    },
+    {
+        "Location": "820021ec",
+        "Pointer_jp": "823457a0",
+        "String_en": "No Items",
+        "String_jp": "アイテムなし"
+    },
+    {
+        "Location": "820021ec",
+        "Pointer_jp": "82343248",
+        "String_en": "No Items",
+        "String_jp": "アイテムなし"
+    },
+    {
+        "Location": "820021fc",
+        "Pointer_jp": "8234324c",
+        "String_en": "Win Rate",
+        "String_jp": "勝率"
+    },
+    {
+        "Location": "82002204",
+        "Pointer_jp": "82345814",
+        "String_en": "Player Match",
+        "String_jp": "プレイヤーマッチ"
+    },
+    {
+        "Location": "82002204",
+        "Pointer_jp": "82343250",
+        "String_en": "Player Match",
+        "String_jp": "プレイヤーマッチ"
+    },
+    {
+        "Location": "82002218",
+        "Pointer_jp": "82343254",
+        "String_en": "Rank Match",
+        "String_jp": "ランクマッチ"
+    },
+    {
+        "Location": "8200230c",
+        "Pointer_jp": "823432ec",
+        "String_en": "The norm of",
+        "String_jp": "The norm of"
+    },
+    {
+        "Location": "82002318",
+        "Pointer_jp": "823432f0",
+        "String_en": " 20 lines",
+        "String_jp": " 20 lines"
+    },
+    {
+        "Location": "82002334",
+        "Pointer_jp": "823432d4",
+        "String_en": "By a Line of",
+        "String_jp": "By a Line of"
+    },
+    {
+        "Location": "82002344",
+        "Pointer_jp": "823432d8",
+        "String_en": "to",
+        "String_jp": "to"
+    },
+    {
+        "Location": "82002348",
+        "Pointer_jp": "823432dc",
+        "String_en": "End in a Tie",
+        "String_jp": "End in a Tie"
+    },
+    {
+        "Location": "82002358",
+        "Pointer_jp": "823432e0",
+        "String_en": "Advantage",
+        "String_jp": "Advantage"
+    },
+    {
+        "Location": "82002374",
+        "Pointer_jp": "823432cc",
+        "String_en": "LOSE",
+        "String_jp": "LOSE"
+    },
+    {
+        "Location": "82002374",
+        "Pointer_jp": "823432c0",
+        "String_en": "LOSE",
+        "String_jp": "LOSE"
+    },
+    {
+        "Location": "8200237c",
+        "Pointer_jp": "823432d0",
+        "String_en": "WIN",
+        "String_jp": "WIN"
+    },
+    {
+        "Location": "8200237c",
+        "Pointer_jp": "823432c4",
+        "String_en": "WIN",
+        "String_jp": "WIN"
+    },
+    {
+        "Location": "82002380",
+        "Pointer_jp": "823432c8",
+        "String_en": "DRAW",
+        "String_jp": "DRAW"
+    },
+    {
+        "Location": "820023c8",
+        "Pointer_jp": "82343340",
+        "String_en": "B−",
+        "String_jp": "Ｂ−"
+    },
+    {
+        "Location": "820023d4",
+        "Pointer_jp": "82343348",
+        "String_en": "B+",
+        "String_jp": "Ｂ＋"
+    },
+    {
+        "Location": "820023dc",
+        "Pointer_jp": "8234334c",
+        "String_en": "A-",
+        "String_jp": "Ａ−"
+    },
+    {
+        "Location": "820023e8",
+        "Pointer_jp": "82343354",
+        "String_en": "A+",
+        "String_jp": "Ａ＋"
+    },
+    {
+        "Location": "820023f0",
+        "Pointer_jp": "82343358",
+        "String_en": "S-",
+        "String_jp": "Ｓ−"
+    },
+    {
+        "Location": "820023fc",
+        "Pointer_jp": "82343360",
+        "String_en": "S+",
+        "String_jp": "Ｓ＋"
+    },
+    {
+        "Location": "82002404",
+        "Pointer_jp": "82344e0c",
+        "String_en": "Beginner",
+        "String_jp": "初心者"
+    },
+    {
+        "Location": "8200240c",
+        "Pointer_jp": "82344e10",
+        "String_en": "Amateur",
+        "String_jp": "初級者"
+    },
+    {
+        "Location": "82002414",
+        "Pointer_jp": "82344e14",
+        "String_en": "Intermediate",
+        "String_jp": "中級者"
+    },
+    {
+        "Location": "8200241c",
+        "Pointer_jp": "82344e18",
+        "String_en": "Pro",
+        "String_jp": "上級者"
+    },
+    {
+        "Location": "82002424",
+        "Pointer_jp": "82344e1c",
+        "String_en": "Expert",
+        "String_jp": "超上級者"
+    },
+    {
+        "Location": "82002430",
+        "Pointer_jp": "82344e20",
+        "String_en": "King",
+        "String_jp": "踏破者"
+    },
+    {
+        "Location": "820026ac",
+        "Pointer_jp": "82345778",
+        "String_en": "Level　１",
+        "String_jp": "ＬＥＶＥＬ　１"
+    },
+    {
+        "Location": "820026bc",
+        "Pointer_jp": "8234577c",
+        "String_en": "Level　２",
+        "String_jp": "ＬＥＶＥＬ　２"
+    },
+    {
+        "Location": "820026cc",
+        "Pointer_jp": "82345780",
+        "String_en": "Level　３",
+        "String_jp": "ＬＥＶＥＬ　３"
+    },
+    {
+        "Location": "820026dc",
+        "Pointer_jp": "82345784",
+        "String_en": "Level　４",
+        "String_jp": "ＬＥＶＥＬ　４"
+    },
+    {
+        "Location": "820026ec",
+        "Pointer_jp": "82345788",
+        "String_en": "Level　５",
+        "String_jp": "ＬＥＶＥＬ　５"
+    },
+    {
+        "Location": "820026fc",
+        "Pointer_jp": "8234578c",
+        "String_en": "Level　６",
+        "String_jp": "ＬＥＶＥＬ　６"
+    },
+    {
+        "Location": "8200270c",
+        "Pointer_jp": "82345790",
+        "String_en": "Level　７",
+        "String_jp": "ＬＥＶＥＬ　７"
+    },
+    {
+        "Location": "8200271c",
+        "Pointer_jp": "82345794",
+        "String_en": "Level　８",
+        "String_jp": "ＬＥＶＥＬ　８"
+    },
+    {
+        "Location": "8200272c",
+        "Pointer_jp": "82345798",
+        "String_en": "Level　９",
+        "String_jp": "ＬＥＶＥＬ　９"
+    },
+    {
+        "Location": "8200273c",
+        "Pointer_jp": "8234579c",
+        "String_en": "Level　１０",
+        "String_jp": "ＬＥＶＥＬ　１０"
+    },
+    {
+        "Location": "82002788",
+        "Pointer_jp": "823457a8",
+        "String_en": "\"Eraser\" has been added as a gamemode!",
+        "String_jp": "ゲームモード「イレイサー」が追加されました！"
+    },
+    {
+        "Location": "820027b8",
+        "Pointer_jp": "823457ac",
+        "String_en": "\"Level Star\" has been added as a gamemode!",
+        "String_jp": "ゲームモード「レベルスター」が追加されました！"
+    },
+    {
+        "Location": "820027e8",
+        "Pointer_jp": "823457b0",
+        "String_en": "\"Target\" has been added as a gamemode!",
+        "String_jp": "ゲームモード「ターゲット」が追加されました！"
+    },
+    {
+        "Location": "82002818",
+        "Pointer_jp": "823457b4",
+        "String_en": "\"Another\" was added to the \"Tetris\" gamemode!",
+        "String_jp": "ゲームモード「テトリス」に「アナザー」が追加されました！"
+    },
+    {
+        "Location": "82002818",
+        "Pointer_jp": "823457bc",
+        "String_en": "\"Another\" was added to the \"Tetris\" gamemode!",
+        "String_jp": "ゲームモード「テトリス」に「アナザー」が追加されました！"
+    },
+    {
+        "Location": "82002856",
+        "Pointer_jp": "823457b8",
+        "String_en": "Promoted!",
+        "String_jp": "に昇格しました！"
+    },
+    {
+        "Location": "8200286c",
+        "Pointer_jp": "823457c0",
+        "String_en": "\"Another 2\" was added to the \"Tetris\" gamemode!",
+        "String_jp": "ゲームモード「テトリス」に「アナザー２」が追加されました！"
+    },
+    {
+        "Location": "820028a8",
+        "Pointer_jp": "823457c4",
+        "String_en": "Restart",
+        "String_jp": "リスタート"
+    },
+    {
+        "Location": "820028b4",
+        "Pointer_jp": "823457c8",
+        "String_en": "Return to Menu",
+        "String_jp": "メニューに戻る"
+    },
+    {
+        "Location": "820028c4",
+        "Pointer_jp": "",
+        "String_en": "Back to Level Select",
+        "String_jp": "レベル選択に戻る"
+    },
+    {
+        "Location": "820028d8",
+        "Pointer_jp": "",
+        "String_en": "Retry",
+        "String_jp": "リトライ"
+    },
+    {
+        "Location": "820028e4",
+        "Pointer_jp": "823457cc",
+        "String_en": "Rematch",
+        "String_jp": "再戦"
+    },
+    {
+        "Location": "820028ec",
+        "Pointer_jp": "",
+        "String_en": "Go to Next Level",
+        "String_jp": "次のレベルへ進む"
+    },
+    {
+        "Location": "82002900",
+        "Pointer_jp": "823457f0",
+        "String_en": "Return",
+        "String_jp": "：戻る"
+    },
+    {
+        "Location": "82002900",
+        "Pointer_jp": "823458ac",
+        "String_en": "Return",
+        "String_jp": "：戻る"
+    },
+    {
+        "Location": "82002908",
+        "Pointer_jp": "823457e8",
+        "String_en": "Confirm",
+        "String_jp": "：決定"
+    },
+    {
+        "Location": "82002914",
+        "Pointer_jp": "823457e0",
+        "String_en": "Select",
+        "String_jp": "：選択"
+    },
+    {
+        "Location": "82002914",
+        "Pointer_jp": "8234588c",
+        "String_en": "Select",
+        "String_jp": "：選択"
+    },
+    {
+        "Location": "82002930",
+        "Pointer_jp": "8234580c",
+        "String_en": "A battle mode where you can Select your opponent.",
+        "String_jp": "プレイヤーが対戦相手を選定できる対戦形式です。"
+    },
+    {
+        "Location": "82002960",
+        "Pointer_jp": "82345810",
+        "String_en": "A battle mode where your opponent is selected according to your level.",
+        "String_jp": "ーマープロフィールのレベルを参照して対戦相手を選定する対戦形式です。"
+    },
+    {
+        "Location": "820029c0",
+        "Pointer_jp": "82345830",
+        "String_en": "Quickmatch",
+        "String_jp": "クイックマッチ"
+    },
+    {
+        "Location": "820029d0",
+        "Pointer_jp": "82345834",
+        "String_en": "Custom Match",
+        "String_jp": "カスタムマッチ"
+    },
+    {
+        "Location": "820029e0",
+        "Pointer_jp": "82345838",
+        "String_en": "Create Session",
+        "String_jp": "セッション作成"
+    },
+    {
+        "Location": "820029f0",
+        "Pointer_jp": "8234583c",
+        "String_en": "My Data",
+        "String_jp": "マイデータ"
+    },
+    {
+        "Location": "820029fc",
+        "Pointer_jp": "82345840",
+        "String_en": "Ranking",
+        "String_jp": "ランキング"
+    },
+    {
+        "Location": "82002a08",
+        "Pointer_jp": "8234581c",
+        "String_en": "Find the best competitive Tetris session.",
+        "String_jp": "最適な対戦テトリスセッションを検索します。"
+    },
+    {
+        "Location": "82002a34",
+        "Pointer_jp": "82345820",
+        "String_en": "Find your session according to your criteria.",
+        "String_jp": "条件を設定し、好みのセッションを検索します。"
+    },
+    {
+        "Location": "82002a64",
+        "Pointer_jp": "82345824",
+        "String_en": "Become host and create a game session.",
+        "String_jp": "自らがホストとなり、セッションを作ります。"
+    },
+    {
+        "Location": "82002a90",
+        "Pointer_jp": "82345828",
+        "String_en": "View your performance in Xbox Live Mode.",
+        "String_jp": "Xbox Live モードでの成績を閲覧します。"
+    },
+    {
+        "Location": "82002ab8",
+        "Pointer_jp": "8234582c",
+        "String_en": "View the Leaderboards for Time Attack and Competitive Tetris.",
+        "String_jp": "タイムアタックと対戦テトリスのランキングを閲覧します。"
+    },
+    {
+        "Location": "82002af0",
+        "Pointer_jp": "",
+        "String_en": "Retrieving infos...",
+        "String_jp": "情報を取得しています…"
+    },
+    {
+        "Location": "82002af0",
+        "Pointer_jp": "",
+        "String_en": "Competitive Tetris Rankings.",
+        "String_jp": "対戦テトリスのランキングです。"
+    },
+    {
+        "Location": "82002b08",
+        "Pointer_jp": "8234587c",
+        "String_en": "Check your own infos.",
+        "String_jp": "個人情報を確認します。"
+    },
+    {
+        "Location": "82002b08",
+        "Pointer_jp": "82345844",
+        "String_en": "Check your own infos.",
+        "String_jp": "個人情報を確認します。"
+    },
+    {
+        "Location": "82002b10",
+        "Pointer_jp": "",
+        "String_en": "Time Attack mode rankings.",
+        "String_jp": "タイムアタックのランキングです。"
+    },
+    {
+        "Location": "82002b20",
+        "Pointer_jp": "82345850",
+        "String_en": "Select the mode you will rank yourself in.",
+        "String_jp": "取得するランキングのモードを選択してください。"
+    },
+    {
+        "Location": "82002b98",
+        "Pointer_jp": "82345894",
+        "String_en": "Top",
+        "String_jp": "：先頭へ"
+    },
+    {
+        "Location": "82002ba8",
+        "Pointer_jp": "8234589c",
+        "String_en": "Display Gamer Card",
+        "String_jp": "：ゲーマーカード表示"
+    },
+    {
+        "Location": "82002bc0",
+        "Pointer_jp": "823458a4",
+        "String_en": ":Your data.",
+        "String_jp": "：個人情報"
+    },
+    {
+        "Location": "82002bcc",
+        "Pointer_jp": "823458d8",
+        "String_en": "Select a gamemode.      ",
+        "String_jp": "ゲームモードを選択します。"
+    },
+    {
+        "Location": "82002bcc",
+        "Pointer_jp": "823458cc",
+        "String_en": "Select a gamemode.      ",
+        "String_jp": "ゲームモードを選択します。"
+    },
+    {
+        "Location": "82002be8",
+        "Pointer_jp": "823458dc",
+        "String_en": "Join Xbox Live session.",
+        "String_jp": "Xbox Live ゲームに参加します。"
+    },
+    {
+        "Location": "82002c08",
+        "Pointer_jp": "823458d4",
+        "String_en": "Modify various settings.",
+        "String_jp": "各種設定を変更します。"
+    },
+    {
+        "Location": "82002c08",
+        "Pointer_jp": "823458e0",
+        "String_en": "Modify various settings.",
+        "String_jp": "各種設定を変更します。"
+    },
+    {
+        "Location": "82002c20",
+        "Pointer_jp": "823458d0",
+        "String_en": "Connect to Xbox Live.",
+        "String_jp": "Xbox Live に接続します。"
+    },
+    {
+        "Location": "82002c3c",
+        "Pointer_jp": "823458c0",
+        "String_en": "Select Gamemode",
+        "String_jp": "ゲームモード選択"
+    },
+    {
+        "Location": "82002c3c",
+        "Pointer_jp": "823458b4",
+        "String_en": "Select Gamemode",
+        "String_jp": "ゲームモード選択"
+    },
+    {
+        "Location": "82002c50",
+        "Pointer_jp": "823458c4",
+        "String_en": "Xbox Live Menu",
+        "String_jp": "Xbox Live メニュー"
+    },
+    {
+        "Location": "82002c64",
+        "Pointer_jp": "823458c8",
+        "String_en": "Settings",
+        "String_jp": "オプション"
+    },
+    {
+        "Location": "82002c70",
+        "Pointer_jp": "823458b8",
+        "String_en": "Xbox Live Sessions",
+        "String_jp": "Xbox Live に接続"
+    },
+    {
+        "Location": "82002c84",
+        "Pointer_jp": "",
+        "String_en": "Clear all the designated blocks within the time limit.",
+        "String_jp": "制限時間内に指定されたブロックをすべて消すモードです。"
+    },
+    {
+        "Location": "82002cbc",
+        "Pointer_jp": "",
+        "String_en": "Clear a set amount of lines within the time limit.",
+        "String_jp": "制限時間内に指定されたライン数を消すモードです。"
+    },
+    {
+        "Location": "82002cf0",
+        "Pointer_jp": "",
+        "String_en": "Clear a certain line within the time limit.",
+        "String_jp": "制限時間内に指定されたラインを消すモードです。"
+    },
+    {
+        "Location": "82002d20",
+        "Pointer_jp": "",
+        "String_en": "Play against each other in this gamemode.",
+        "String_jp": "プレイヤー同士でテトリスの対戦をするモードです。"
+    },
+    {
+        "Location": "82002d54",
+        "Pointer_jp": "",
+        "String_en": "2 players play together in this gamemode.",
+        "String_jp": "２人で協力してテトリスをプレイするモードです。"
+    },
+    {
+        "Location": "82002d84",
+        "Pointer_jp": "",
+        "String_en": "The standard Tetris gamemode.",
+        "String_jp": "スタンダードなテトリスモードです。"
+    },
+    {
+        "Location": "82002da8",
+        "Pointer_jp": "823458f4",
+        "String_en": "Doubles",
+        "String_jp": "ダブルス"
+    },
+    {
+        "Location": "82002db4",
+        "Pointer_jp": "823458f8",
+        "String_en": "Match",
+        "String_jp": "マッチ"
+    },
+    {
+        "Location": "82002dbc",
+        "Pointer_jp": "",
+        "String_en": "Another mode that begins at full speed.",
+        "String_jp": "最初から最高速のアナザーモードです。"
+    },
+    {
+        "Location": "82002de8",
+        "Pointer_jp": "",
+        "String_en": "Same speed as \"High Speed 2\", tetrominoes lock themselves in faster.",
+        "String_jp": "ハイスピード２のスピードで、テトリミノの固まる時間が短いモードです。"
+    },
+    {
+        "Location": "82002e30",
+        "Pointer_jp": "",
+        "String_en": "Tetrominoes are twice as big as usual.",
+        "String_jp": "テトリミノの大きさが２倍になるモードです。"
+    },
+    {
+        "Location": "82002e5c",
+        "Pointer_jp": "",
+        "String_en": "Tetrominoes immediately fall at their maximal speed.",
+        "String_jp": "最初からテトリミノの落下スピードが最高速のモードです。"
+    },
+    {
+        "Location": "82002e94",
+        "Pointer_jp": "",
+        "String_en": "Tetrominoes will fall slightly faster than usually.",
+        "String_jp": "テトリミノの落下スピードがノーマルより少し速いモードです。"
+    },
+    {
+        "Location": "82002ed0",
+        "Pointer_jp": "",
+        "String_en": "Standard difficulty mode.",
+        "String_jp": "標準的な難易度のモードです。"
+    },
+    {
+        "Location": "82002ef0",
+        "Pointer_jp": "82345928",
+        "String_en": "Another 2",
+        "String_jp": "アナザー２"
+    },
+    {
+        "Location": "82002efc",
+        "Pointer_jp": "82345934",
+        "String_en": "Configure in-game features.",
+        "String_jp": "ゲーム内の機能を設定します。"
+    },
+    {
+        "Location": "82002f1c",
+        "Pointer_jp": "82345938",
+        "String_en": "Configure the controls.",
+        "String_jp": "ボタンの機能を設定します。"
+    },
+    {
+        "Location": "82002f38",
+        "Pointer_jp": "8234592c",
+        "String_en": "Game Settings",
+        "String_jp": "ゲーム設定"
+    },
+    {
+        "Location": "82002f44",
+        "Pointer_jp": "82345930",
+        "String_en": "Button Controls",
+        "String_jp": "ゲーム設定"
+    },
+    {
+        "Location": "82002f50",
+        "Pointer_jp": "82345944",
+        "String_en": "Pick the player you want to configure.",
+        "String_jp": "設定するプレイヤーを選択してください。"
+    },
+    {
+        "Location": "82002f78",
+        "Pointer_jp": "8234593c",
+        "String_en": "Player    １",
+        "String_jp": "プレイヤー１"
+    },
+    {
+        "Location": "82002f88",
+        "Pointer_jp": "82345940",
+        "String_en": "Player    2",
+        "String_jp": "プレイヤー２"
+    },
+    {
+        "Location": "82002f98",
+        "Pointer_jp": "82345988",
+        "String_en": "Set up controls related to moving and falling.",
+        "String_jp": "移動・落下のコントローラー操作を設定します。"
+    },
+    {
+        "Location": "82002fc8",
+        "Pointer_jp": "8234598c",
+        "String_en": "The Left Stick will be used to move/drop.",
+        "String_jp": "移動・落下操作を左スティックで行います。"
+    },
+    {
+        "Location": "82002ff4",
+        "Pointer_jp": "82345990",
+        "String_en": "The D-Pad will be used to move/drop.",
+        "String_jp": "移動・落下操作を方向パッドで行います。"
+    },
+    {
+        "Location": "8200301c",
+        "Pointer_jp": "82345994",
+        "String_en": "Both Left Stick and D-Pad could control the movement/drop.",
+        "String_jp": "移動・落下操作を左スティック、方向パッドの両方で行います。"
+    },
+    {
+        "Location": "82003058",
+        "Pointer_jp": "82345998",
+        "String_en": "Sets the tetrominoes' Rotation Rule.",
+        "String_jp": "テトリミノの回転法則を設定します。"
+    },
+    {
+        "Location": "8200307c",
+        "Pointer_jp": "8234599c",
+        "String_en": "Super Rotation System. \"World\" rule that follows the Guideline.",
+        "String_jp": "スーパーローテーションシステム。世界標準タイプの回転法則です。"
+    },
+    {
+        "Location": "820030bc",
+        "Pointer_jp": "823459a0",
+        "String_en": "Arika Rotation System. Rotation Rule unique to Arika games.",
+        "String_jp": "アリカローテーションシステム。アリカ独自の回転法則です。"
+    },
+    {
+        "Location": "820030f8",
+        "Pointer_jp": "823459a4",
+        "String_en": "In addition to ARS, press up to Sonic Drop and down to Lock.",
+        "String_jp": "ＡＲＳに加えて、上を押すと着地、下を押すとロックダウンします。"
+    },
+    {
+        "Location": "82003138",
+        "Pointer_jp": "823459a8",
+        "String_en": "Display or not ghost piece.",
+        "String_jp": "ゴーストの有無を設定します。"
+    },
+    {
+        "Location": "82003158",
+        "Pointer_jp": "823459ac",
+        "String_en": "Show the Ghost Piece.",
+        "String_jp": "ゴーストを表示します。"
+    },
+    {
+        "Location": "82003170",
+        "Pointer_jp": "823459b0",
+        "String_en": "Hide the Ghost Piece.",
+        "String_jp": "ゴーストを表示しません。"
+    },
+    {
+        "Location": "8200318c",
+        "Pointer_jp": "823459b4",
+        "String_en": "Set the pre-rotation/hold behavior.",
+        "String_jp": "先行回転・ホールドの操作タイプを設定します。"
+    },
+    {
+        "Location": "820031bc",
+        "Pointer_jp": "823459b8",
+        "String_en": "TGM's preemptive hold/rotation mechanic.",
+        "String_jp": "ＴＧＭシリーズの先行回転・ホールド操作です。"
+    },
+    {
+        "Location": "820031ec",
+        "Pointer_jp": "823459bc",
+        "String_en": "TGM ACE's new hold/rotation logic.",
+        "String_jp": "ＴＧＭ　ＡＣＥの新しい先行回転・ホールド操作です。"
+    },
+    {
+        "Location": "82003220",
+        "Pointer_jp": "82345958",
+        "String_en": "Left Stick",
+        "String_jp": "左スティック"
+    },
+    {
+        "Location": "82003230",
+        "Pointer_jp": "8234595c",
+        "String_en": "D-Pad",
+        "String_jp": "方向パッド"
+    },
+    {
+        "Location": "8200323c",
+        "Pointer_jp": "82345960",
+        "String_en": "Both",
+        "String_jp": "両方"
+    },
+    {
+        "Location": "82003244",
+        "Pointer_jp": "82345964",
+        "String_en": "ＳＲＳ",
+        "String_jp": "ＳＲＳ"
+    },
+    {
+        "Location": "8200324c",
+        "Pointer_jp": "82345968",
+        "String_en": "ＡＲＳ",
+        "String_jp": "ＡＲＳ"
+    },
+    {
+        "Location": "82003254",
+        "Pointer_jp": "8234596c",
+        "String_en": "ＡＲＳ２",
+        "String_jp": "ＡＲＳ２"
+    },
+    {
+        "Location": "82003260",
+        "Pointer_jp": "82345970",
+        "String_en": "Yes",
+        "String_jp": "あり"
+    },
+    {
+        "Location": "82003268",
+        "Pointer_jp": "82345974",
+        "String_en": "No",
+        "String_jp": "なし"
+    },
+    {
+        "Location": "82003270",
+        "Pointer_jp": "82345948",
+        "String_en": "Moves/Fall",
+        "String_jp": "移動・落下"
+    },
+    {
+        "Location": "8200327c",
+        "Pointer_jp": "8234594c",
+        "String_en": "Rotation Rule",
+        "String_jp": "回転法則"
+    },
+    {
+        "Location": "82003288",
+        "Pointer_jp": "82345950",
+        "String_en": "Ghost",
+        "String_jp": "ゴースト"
+    },
+    {
+        "Location": "82003293",
+        "Pointer_jp": "82345954",
+        "String_en": "Pre-rotation",
+        "String_jp": "先行回転"
+    },
+    {
+        "Location": "820032a0",
+        "Pointer_jp": "",
+        "String_en": "Set to Type Number 2.",
+        "String_jp": "タイプ２に設定しました。"
+    },
+    {
+        "Location": "820032bc",
+        "Pointer_jp": "",
+        "String_en": "Set to Type Number 1.",
+        "String_jp": "タイプ１に設定しました。"
+    },
+    {
+        "Location": "820032d8",
+        "Pointer_jp": "823459d4",
+        "String_en": "Select Button Type Number 1.",
+        "String_jp": "ボタンをタイプ１に設定します。"
+    },
+    {
+        "Location": "820032f8",
+        "Pointer_jp": "",
+        "String_en": "Select Button Type Number 2.",
+        "String_jp": "ボタンをタイプ２に設定します。"
+    },
+    {
+        "Location": "82003318",
+        "Pointer_jp": "",
+        "String_en": "Configure your controls freely.",
+        "String_jp": "ボタン配置を自由に設定します。"
+    },
+    {
+        "Location": "82003338",
+        "Pointer_jp": "823459c8",
+        "String_en": "Type 1",
+        "String_jp": "タイプ１"
+    },
+    {
+        "Location": "82003344",
+        "Pointer_jp": "",
+        "String_en": "Type 2",
+        "String_jp": "タイプ２"
+    },
+    {
+        "Location": "82003350",
+        "Pointer_jp": "",
+        "String_en": "Edit",
+        "String_jp": "エディット"
+    },
+    {
+        "Location": "82003360",
+        "Pointer_jp": "",
+        "String_en": "You will not be able to play properly after leaving the settings, continue?",
+        "String_jp": "このままの設定だと、ゲームを正しく遊ぶことが出来ませんがよろしいですか？"
+    },
+    {
+        "Location": "820033ac",
+        "Pointer_jp": "",
+        "String_en": "No",
+        "String_jp": "いいえ"
+    },
+    {
+        "Location": "820033b4",
+        "Pointer_jp": "",
+        "String_en": "Yes",
+        "String_jp": "はい"
+    },
+    {
+        "Location": "820033bc",
+        "Pointer_jp": "82345a10",
+        "String_en": "Configure the usage of each button.",
+        "String_jp": "各ボタンの機能を設定してください。"
+    },
+    {
+        "Location": "820033e0",
+        "Pointer_jp": "82345a00",
+        "String_en": "−−−",
+        "String_jp": "−−−"
+    },
+    {
+        "Location": "820033e8",
+        "Pointer_jp": "82345a04",
+        "String_en": "Rotate Left",
+        "String_jp": "左回転"
+    },
+    {
+        "Location": "820033f0",
+        "Pointer_jp": "82345a08",
+        "String_en": "Rotate Right",
+        "String_jp": "右回転"
+    },
+    {
+        "Location": "820033f8",
+        "Pointer_jp": "82345a0c",
+        "String_en": "Hold",
+        "String_jp": "ホールド"
+    },
+    {
+        "Location": "82003404",
+        "Pointer_jp": "823459e0",
+        "String_en": "A Button",
+        "String_jp": "Ａボタン"
+    },
+    {
+        "Location": "82003410",
+        "Pointer_jp": "823459e4",
+        "String_en": "B Button",
+        "String_jp": "Ｂボタン"
+    },
+    {
+        "Location": "8200341c",
+        "Pointer_jp": "823459e8",
+        "String_en": "X Button",
+        "String_jp": "Ｘボタン"
+    },
+    {
+        "Location": "82003428",
+        "Pointer_jp": "823459ec",
+        "String_en": "Y Button",
+        "String_jp": "Ｙボタン"
+    },
+    {
+        "Location": "82003434",
+        "Pointer_jp": "823459f0",
+        "String_en": "LB",
+        "String_jp": "ＬＢ"
+    },
+    {
+        "Location": "8200343c",
+        "Pointer_jp": "823459f4",
+        "String_en": "RB",
+        "String_jp": "ＲＢ"
+    },
+    {
+        "Location": "82003444",
+        "Pointer_jp": "823459f8",
+        "String_en": "L Trigger",
+        "String_jp": "Ｌトリガー"
+    },
+    {
+        "Location": "82003450",
+        "Pointer_jp": "823459fc",
+        "String_en": "R Trigger",
+        "String_jp": "Ｒトリガー"
+    },
+    {
+        "Location": "8200345c",
+        "Pointer_jp": "",
+        "String_en": "Select the device used for saving/loading data.",
+        "String_jp": "データをセーブ、ロードするデバイスを選択してください。"
+    },
+    {
+        "Location": "82003494",
+        "Pointer_jp": "",
+        "String_en": "Please create a new file.",
+        "String_jp": "新規にファイルを作成します。"
+    },
+    {
+        "Location": "820034b4",
+        "Pointer_jp": "",
+        "String_en": "Loading data from the Xbox Live...",
+        "String_jp": "Xbox Liveから情報を取得しています…"
+    },
+    {
+        "Location": "820034d8",
+        "Pointer_jp": "",
+        "String_en": "Unable to load data from the chosen device. Do you wish to continue?",
+        "String_jp": "指定されたデバイスからデータをロード出来ません。このまま続けますか？"
+    },
+    {
+        "Location": "82003520",
+        "Pointer_jp": "",
+        "String_en": "Loading now...",
+        "String_jp": "ロードしています…"
+    },
+    {
+        "Location": "82003534",
+        "Pointer_jp": "",
+        "String_en": "Loading complete.",
+        "String_jp": "完了しました。"
+    },
+    {
+        "Location": "82003548",
+        "Pointer_jp": "",
+        "String_en": "Cannot save data to the device. Do you still wish to continue?",
+        "String_jp": "指定されたデバイスにデータをセーブ出来ません。このまま続けますか？"
+    },
+    {
+        "Location": "8200358c",
+        "Pointer_jp": "",
+        "String_en": "Saving the data...",
+        "String_jp": "セーブしています…"
+    },
+    {
+        "Location": "820035a0",
+        "Pointer_jp": "",
+        "String_en": "Some options were modified. Do you wish to save them?",
+        "String_jp": "オプション内容が変更されました。変更を保存しますか？"
+    },
+    {
+        "Location": "820035d8",
+        "Pointer_jp": "",
+        "String_en": "You will not be able to save your progress. Do you wish to continue?",
+        "String_jp": "このまま進めると、ユーザーデータのセーブが出来ませんがよろしいですか？"
+    },
+    {
+        "Location": "82003620",
+        "Pointer_jp": "",
+        "String_en": "Cannot play as guest. Returning to the title screen.",
+        "String_jp": "ゲストではゲームをプレイすることが出来ません。確認後、タイトルに戻ります。"
+    },
+    {
+        "Location": "82003684",
+        "Pointer_jp": "",
+        "String_en": "Login modified. Returning to the title screen.",
+        "String_jp": "サインインの変更を行ったので、確認後タイトルに戻ります。"
+    },
+    {
+        "Location": "820036dc",
+        "Pointer_jp": "",
+        "String_en": "Return",
+        "String_jp": "：戻る"
+    },
+    {
+        "Location": "820036f0",
+        "Pointer_jp": "",
+        "String_en": "Atatatatatatatata~",
+        "String_jp": "あったったったったったったったた〜"
+    },
+    {
+        "Location": "82003718",
+        "Pointer_jp": "",
+        "String_en": "No way! Wait!",
+        "String_jp": "女女女！まて！"
+    },
+    {
+        "Location": "82003780",
+        "Pointer_jp": "",
+        "String_en": "Always Pick",
+        "String_jp": "毎回選択"
+    },
+    {
+        "Location": "8200378c",
+        "Pointer_jp": "",
+        "String_en": "Banned",
+        "String_jp": "常に禁止"
+    },
+    {
+        "Location": "82003798",
+        "Pointer_jp": "",
+        "String_en": "Whatever",
+        "String_jp": "気にしない"
+    },
+    {
+        "Location": "820037c4",
+        "Pointer_jp": "",
+        "String_en": "It's You!",
+        "String_jp": "おまえか！"
+    },
+    {
+        "Location": "820037dc",
+        "Pointer_jp": "82345a68",
+        "String_en": "CLIENT_STATE_COOLDOWN_BEFORE_QUIT",
+        "String_jp": "CLIENT_STATE_COOLDOWN_BEFORE_QUIT"
+    },
+    {
+        "Location": "82003800",
+        "Pointer_jp": "82345a64",
+        "String_en": "CLIENT_STATE_GAME_RELOADINGSTATS",
+        "String_jp": "CLIENT_STATE_GAME_RELOADINGSTATS"
+    },
+    {
+        "Location": "82003824",
+        "Pointer_jp": "82345a60",
+        "String_en": "CLIENT_STATE_GAME_ENDING",
+        "String_jp": "CLIENT_STATE_GAME_ENDING"
+    },
+    {
+        "Location": "82003840",
+        "Pointer_jp": "82345a5c",
+        "String_en": "CLIENT_STATE_GAME_WRITING_ENDING_STATS",
+        "String_jp": "CLIENT_STATE_GAME_WRITING_ENDING_STATS"
+    },
+    {
+        "Location": "82003868",
+        "Pointer_jp": "82345a58",
+        "String_en": "CLIENT_STATE_GAME_STARTED",
+        "String_jp": "CLIENT_STATE_GAME_STARTED"
+    },
+    {
+        "Location": "82003884",
+        "Pointer_jp": "82345a54",
+        "String_en": "CLIENT_STATE_GAME_STARTING",
+        "String_jp": "CLIENT_STATE_GAME_STARTING"
+    },
+    {
+        "Location": "820038a0",
+        "Pointer_jp": "82345a50",
+        "String_en": "CLIENT_STATE_READY_TO_START",
+        "String_jp": "CLIENT_STATE_READY_TO_START"
+    },
+    {
+        "Location": "820038bc",
+        "Pointer_jp": "82345a4c",
+        "String_en": "CLIENT_STATE_STARTING_SESSION",
+        "String_jp": "CLIENT_STATE_STARTING_SESSION"
+    },
+    {
+        "Location": "820038dc",
+        "Pointer_jp": "82345a48",
+        "String_en": "CLIENT_STATE_WAITING_SESSIONSTART_COMMAND",
+        "String_jp": "CLIENT_STATE_WAITING_SESSIONSTART_COMMAND"
+    },
+    {
+        "Location": "82003908",
+        "Pointer_jp": "82345a44",
+        "String_en": "CLIENT_STATE_REGISTERING",
+        "String_jp": "CLIENT_STATE_REGISTERING"
+    },
+    {
+        "Location": "82003924",
+        "Pointer_jp": "82345a40",
+        "String_en": "CLIENT_STATE_ACCEPTED_AND_WAITING",
+        "String_jp": "CLIENT_STATE_ACCEPTED_AND_WAITING"
+    },
+    {
+        "Location": "82003948",
+        "Pointer_jp": "82345a3c",
+        "String_en": "CLIENT_STATE_DECIDING_GAME_START",
+        "String_jp": "CLIENT_STATE_DECIDING_GAME_START"
+    },
+    {
+        "Location": "8200396c",
+        "Pointer_jp": "82345a38",
+        "String_en": "CLIENT_STATE_IDLE",
+        "String_jp": "CLIENT_STATE_IDLE"
+    },
+    {
+        "Location": "82003980",
+        "Pointer_jp": "82345a34",
+        "String_en": "CLIENT_STATE_NULL",
+        "String_jp": "CLIENT_STATE_NULL"
+    },
+    {
+        "Location": "820039d0",
+        "Pointer_jp": "",
+        "String_en": "Starting in %i seconds",
+        "String_jp": "開始まであと %i 秒"
+    },
+    {
+        "Location": "820039e8",
+        "Pointer_jp": "",
+        "String_en": "Starting",
+        "String_jp": "開始"
+    },
+    {
+        "Location": "820039f0",
+        "Pointer_jp": "",
+        "String_en": "Press the A button once you are ready. \n%i seconds left",
+        "String_jp": "準備ができたらＡボタンを押してください。\n開始まであと %i 秒"
+    },
+    {
+        "Location": "82003a2c",
+        "Pointer_jp": "",
+        "String_en": "Press the A button once you are ready.",
+        "String_jp": "準備ができたらＡボタンを押してください。"
+    },
+    {
+        "Location": "82003a80",
+        "Pointer_jp": "82345ac8",
+        "String_en": "SERV_STATE_GAME_ENDED",
+        "String_jp": "SERV_STATE_GAME_ENDED"
+    },
+    {
+        "Location": "82003a98",
+        "Pointer_jp": "82345ac4",
+        "String_en": "SERV_STATE_GAME_WAITING_END_MSG",
+        "String_jp": "SERV_STATE_GAME_WAITING_END_MSG"
+    },
+    {
+        "Location": "82003ab8",
+        "Pointer_jp": "82345ac0",
+        "String_en": "SERV_STATE_GAME_STARTED",
+        "String_jp": "SERV_STATE_GAME_STARTED"
+    },
+    {
+        "Location": "82003ad0",
+        "Pointer_jp": "82345abc",
+        "String_en": "SERV_STATE_WAITING_SESSION_START",
+        "String_jp": "SERV_STATE_WAITING_SESSION_START"
+    },
+    {
+        "Location": "82003af4",
+        "Pointer_jp": "82345ab8",
+        "String_en": "SERV_STATE_WAITING_FOR_HOST_REGISTRATION",
+        "String_jp": "SERV_STATE_WAITING_FOR_HOST_REGISTRATION"
+    },
+    {
+        "Location": "82003b20",
+        "Pointer_jp": "82345ab4",
+        "String_en": "SERV_STATE_WAITING_FOR_CLIENTS_REGISTRATION",
+        "String_jp": "SERV_STATE_WAITING_FOR_CLIENTS_REGISTRATION"
+    },
+    {
+        "Location": "82003b4c",
+        "Pointer_jp": "82345ab0",
+        "String_en": "SERV_STATE_WAITING_ACCEPT_OR_REJECT",
+        "String_jp": "SERV_STATE_WAITING_ACCEPT_OR_REJECT"
+    },
+    {
+        "Location": "82003b70",
+        "Pointer_jp": "82345aac",
+        "String_en": "SERV_STATE_IDLE",
+        "String_jp": "SERV_STATE_IDLE"
+    },
+    {
+        "Location": "82003b80",
+        "Pointer_jp": "82345aa8",
+        "String_en": "SERV_STATE_NULL",
+        "String_jp": "SERV_STATE_NULL"
+    },
+    {
+        "Location": "82003ba0",
+        "Pointer_jp": "",
+        "String_en": "Once you join a session, your current play will be discarded. Is that OK ?",
+        "String_jp": "セッションに入ると、現在遊んでいるゲームのデータは破棄されますがよろしいですか？"
+    },
+    {
+        "Location": "82003c0c",
+        "Pointer_jp": "",
+        "String_en": "Evaluate Player",
+        "String_jp": "：プレイヤー評価を送る"
+    },
+    {
+        "Location": "82003c24",
+        "Pointer_jp": "",
+        "String_en": "Tetris",
+        "String_jp": "：テトリス"
+    },
+    {
+        "Location": "82003c44",
+        "Pointer_jp": "",
+        "String_en": "  %s Is joining the session    ",
+        "String_jp": "  %s がセッションに参加します"
+    },
+    {
+        "Location": "82003c64",
+        "Pointer_jp": "",
+        "String_en": "%s Has left the current session",
+        "String_jp": "%s がセッションから抜けました"
+    },
+    {
+        "Location": "82003c88",
+        "Pointer_jp": "",
+        "String_en": "Leaving the session",
+        "String_jp": "セッションを抜ける"
+    },
+    {
+        "Location": "82003c9c",
+        "Pointer_jp": "",
+        "String_en": "Terminating the session",
+        "String_jp": "セッションを終了する"
+    },
+    {
+        "Location": "82003cb4",
+        "Pointer_jp": "",
+        "String_en": "Close the Menu",
+        "String_jp": "メニューを閉じる"
+    },
+    {
+        "Location": "82003cf0",
+        "Pointer_jp": "",
+        "String_en": "Line Stats",
+        "String_jp": "回線状況"
+    },
+    {
+        "Location": "82003cfc",
+        "Pointer_jp": "",
+        "String_en": "Session Stats",
+        "String_jp": "セッション状況"
+    },
+    {
+        "Location": "82003d18",
+        "Pointer_jp": "",
+        "String_en": "Match Type",
+        "String_jp": "マッチ形式"
+    },
+    {
+        "Location": "82003d24",
+        "Pointer_jp": "",
+        "String_en": "Items",
+        "String_jp": "アイテム"
+    },
+    {
+        "Location": "82003d3c",
+        "Pointer_jp": "",
+        "String_en": "Gamemodes",
+        "String_jp": "アイテム"
+    },
+    {
+        "Location": "82003d50",
+        "Pointer_jp": "",
+        "String_en": "Host",
+        "String_jp": "ホスト"
+    },
+    {
+        "Location": "82003d78",
+        "Pointer_jp": "82345b24",
+        "String_en": "LR",
+        "String_jp": "LR"
+    },
+    {
+        "Location": "82003d7c",
+        "Pointer_jp": "82345cd8",
+        "String_en": "Select",
+        "String_jp": "選択"
+    },
+    {
+        "Location": "82003d7c",
+        "Pointer_jp": "82345b28",
+        "String_en": "Select",
+        "String_jp": "選択"
+    },
+    {
+        "Location": "82003d7c",
+        "Pointer_jp": "82345ae0",
+        "String_en": "Select",
+        "String_jp": "選択"
+    },
+    {
+        "Location": "82003d7c",
+        "Pointer_jp": "82345d80",
+        "String_en": "Select",
+        "String_jp": "選択"
+    },
+    {
+        "Location": "82003d84",
+        "Pointer_jp": "82345b30",
+        "String_en": "Review Player",
+        "String_jp": "プレイヤー評価を送る"
+    },
+    {
+        "Location": "82003d84",
+        "Pointer_jp": "82345ae8",
+        "String_en": "Review Player",
+        "String_jp": "プレイヤー評価を送る"
+    },
+    {
+        "Location": "82003d9c",
+        "Pointer_jp": "82345b38",
+        "String_en": "Gamer Card display",
+        "String_jp": "ゲーマーカード表示"
+    },
+    {
+        "Location": "82003d9c",
+        "Pointer_jp": "82345af0",
+        "String_en": "Gamer Card display",
+        "String_jp": "ゲーマーカード表示"
+    },
+    {
+        "Location": "82003db0",
+        "Pointer_jp": "82345b40",
+        "String_en": "Pers. Data",
+        "String_jp": "個人情報"
+    },
+    {
+        "Location": "82003db0",
+        "Pointer_jp": "82345af8",
+        "String_en": "Pers. Data",
+        "String_jp": "個人情報"
+    },
+    {
+        "Location": "82003dbc",
+        "Pointer_jp": "82345b00",
+        "String_en": "Swap Screen",
+        "String_jp": "画面切替"
+    },
+    {
+        "Location": "82003dbc",
+        "Pointer_jp": "82345b00",
+        "String_en": "Swap Screen",
+        "String_jp": "画面切替"
+    },
+    {
+        "Location": "82003e6c",
+        "Pointer_jp": "",
+        "String_en": "Looking for a session.",
+        "String_jp": "セッションを探しています。"
+    },
+    {
+        "Location": "82003ed0",
+        "Pointer_jp": "",
+        "String_en": "Impossible to join. The session has \nreached its maximal capacity or is empty.",
+        "String_jp": "人数がいっぱいになったかなくなったため、\nこのセッションには入れませんでした。"
+    },
+    {
+        "Location": "82003f20",
+        "Pointer_jp": "",
+        "String_en": "Connecting to the session.",
+        "String_jp": "セッションを接続しています。"
+    },
+    {
+        "Location": "82003f40",
+        "Pointer_jp": "",
+        "String_en": "Your session has ended.\n Returning to the Xbox Menu.",
+        "String_jp": "セッションを終了しました。\nXbox Live メニューに戻ります。"
+    },
+    {
+        "Location": "82003f7c",
+        "Pointer_jp": "",
+        "String_en": "The session is no longer available.",
+        "String_jp": "このセッションはなくなりました。"
+    },
+    {
+        "Location": "82003ff4",
+        "Pointer_jp": "",
+        "String_en": "Creating a session right now.",
+        "String_jp": "セッションを作成しています。"
+    },
+    {
+        "Location": "820040b8",
+        "Pointer_jp": "",
+        "String_en": "Tetris League",
+        "String_jp": "テトリスリーグ"
+    },
+    {
+        "Location": "820040c8",
+        "Pointer_jp": "",
+        "String_en": "Always On",
+        "String_jp": "常にあり"
+    },
+    {
+        "Location": "820040d4",
+        "Pointer_jp": "",
+        "String_en": "Always Off",
+        "String_jp": "常になし"
+    },
+    {
+        "Location": "820040e0",
+        "Pointer_jp": "",
+        "String_en": "Close",
+        "String_jp": "近い"
+    },
+    {
+        "Location": "820040e8",
+        "Pointer_jp": "",
+        "String_en": "Open",
+        "String_jp": "オープン"
+    },
+    {
+        "Location": "820040f4",
+        "Pointer_jp": "",
+        "String_en": "Private",
+        "String_jp": "オープン"
+    },
+    {
+        "Location": "82004104",
+        "Pointer_jp": "",
+        "String_en": "Public",
+        "String_jp": "すべて"
+    },
+    {
+        "Location": "8200410c",
+        "Pointer_jp": "",
+        "String_en": "Session Format",
+        "String_jp": "セッション形式"
+    },
+    {
+        "Location": "8200411c",
+        "Pointer_jp": "",
+        "String_en": "Hostname",
+        "String_jp": "ホスト名"
+    },
+    {
+        "Location": "8200413c",
+        "Pointer_jp": "",
+        "String_en": "Create a Session",
+        "String_jp": "セッションの作成"
+    },
+    {
+        "Location": "82004150",
+        "Pointer_jp": "",
+        "String_en": "Create a game session with these terms",
+        "String_jp": "この条件でゲームセッションを作成します"
+    },
+    {
+        "Location": "8200417c",
+        "Pointer_jp": "82345d88",
+        "String_en": "Select",
+        "String_jp": "決定"
+    },
+    {
+        "Location": "8200417c",
+        "Pointer_jp": "82345ce0",
+        "String_en": "Select",
+        "String_jp": "決定"
+    },
+    {
+        "Location": "82004184",
+        "Pointer_jp": "",
+        "String_en": "Grade",
+        "String_jp": "グレード"
+    },
+    {
+        "Location": "82004194",
+        "Pointer_jp": "",
+        "String_en": "Search Now",
+        "String_jp": "検索開始"
+    },
+    {
+        "Location": "820041a0",
+        "Pointer_jp": "",
+        "String_en": "Custom Search",
+        "String_jp": "カスタム検索"
+    },
+    {
+        "Location": "820041b0",
+        "Pointer_jp": "",
+        "String_en": "Found a game session meeting the criteria.",
+        "String_jp": "この条件でゲームセッションを検索します。"
+    },
+    {
+        "Location": "82004214",
+        "Pointer_jp": "82345e18",
+        "String_en": "Grade",
+        "String_jp": "  Grade  "
+    },
+    {
+        "Location": "82004244",
+        "Pointer_jp": "",
+        "String_en": "There were no suitable game sessions.",
+        "String_jp": "合致するゲームセッションはありませんでした。"
+    },
+    {
+        "Location": "82004274",
+        "Pointer_jp": "",
+        "String_en": "Create a session",
+        "String_jp": "セッションを作成"
+    },
+    {
+        "Location": "82004274",
+        "Pointer_jp": "",
+        "String_en": "Select a session",
+        "String_jp": "セッションを選択"
+    },
+    {
+        "Location": "82004288",
+        "Pointer_jp": "",
+        "String_en": "Search",
+        "String_jp": "再検索"
+    },
+    {
+        "Location": "820042b4",
+        "Pointer_jp": "",
+        "String_en": "Choose the session you wish to join.",
+        "String_jp": "入室するセッションを選択してください。"
+    },
+    {
+        "Location": "820042dc",
+        "Pointer_jp": "",
+        "String_en": "Please press any button.",
+        "String_jp": "いずれかのボタンを押してください。"
+    },
+    {
+        "Location": "82011138",
+        "Pointer_jp": "8234de40",
+        "String_en": "Confirm",
+        "String_jp": "確認"
+    }
+]
