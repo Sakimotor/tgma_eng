@@ -33,8 +33,6 @@ Plus, **this patch only supports the 1.0 version of the game**, please reach out
 
 Updated Version:
 ![xenia_canary_FH0ILvM7ot](https://github.com/user-attachments/assets/e4b3fd42-efda-4067-a491-bf92735d89ef)
-![xenia_canary_3YZJyw8Wfk](https://github.com/user-attachments/assets/dc3eeb90-112c-41be-8aee-9eb24ce4e113)
-
 
 
 Original Patch:
