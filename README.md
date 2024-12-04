@@ -16,6 +16,8 @@ To install the patch, you need to dump your game, find "default.xex" and apply t
 xextool -o default_updated.xex -p default.xexp default_original.xex
 ```
 
+Alternatively, if you don't want to bother with the process, apply the "legacy" xdelta patch, which will automatically upgrade your game to the 1.0.3 from the original file.
+
 ### The Force Unlock (Xenia Canary only, pre-applied to the patch)
 Xenia users who wish to keep the japanese text/don't want to alter their .xex file, while still making use of the **Force Unlock Patch** can download [my patch](https://github.com/Sakimotor/tgma_eng/blob/main/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml) (for the 1.0.3 version it's [this one](https://github.com/Sakimotor/tgma_eng/blob/main/434107D2%20v1.0.3%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml) and put it in their `Xenia/patches` folder as indicated by [the official guide](https://github.com/xenia-canary/game-patches)
 
