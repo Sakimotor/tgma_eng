@@ -5,7 +5,7 @@ enable_xmp = true                                 	# Enables Music Player playba
 ffmpeg_verbose = false                            	# Verbose FFmpeg output (debug and above)
 mute = false                                      	# Mutes all audio output.
 use_dedicated_xma_thread = true                   	# Enables XMA decoding on separate thread. Disabled should produce better results, but decrease performance a bit.
-use_new_decoder = false                           	# Enables usage of new experimental XMA audio decoder.
+use_new_decoder = true                           	# Enables usage of new experimental XMA audio decoder.
 xmp_default_volume = 70                           	# Default music volume if game doesn't set it [0-100].
 
 
