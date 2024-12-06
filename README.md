@@ -1,10 +1,14 @@
-# Tetris The Grand Master: Ace - English Patch
+  # Tetris The Grand Master: Ace - English Patch
 
 Patch for TGM: Ace that was made in an afternoon by using Ghidra and wxMEdit.
 
 The `docs/` folder contains the game's promotional Flash website that, I modified with JPEXS and Adobe Flash CS6, [check it out](https://sakimotor.github.io/tgma_eng/)
 
 ## Installation
+
+## Video Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H5fCgc9ragc?si=Zb5hzRbRfb76KVh2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### The English Patch
