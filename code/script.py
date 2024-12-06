@@ -28,7 +28,6 @@ We want to replace the string_jp in the executable by its corresponding string_e
 
 """
 
-import pandas as pd
 import json
 import hexdump
 
