@@ -31,8 +31,6 @@ Xenia uses the .xex file's hashing to decide whether it should apply the .toml p
 
 As my Xbox 360 is a retail western console, I do not have the ability to play the game online. Therefore, all translations of the online features are untested.
 
-Plus, **this patch only supports the 1.0 version of the game**, please reach out to me if you have a dump of the update (`Sakimotor#7923`)
-
 ## Screenshots
 
 Updated Version:
